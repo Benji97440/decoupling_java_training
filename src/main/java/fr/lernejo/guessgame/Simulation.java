@@ -2,7 +2,7 @@ package fr.lernejo.guessgame;
 
 import fr.lernejo.logger.Logger;
 import fr.lernejo.logger.LoggerFactory;
-
+import java.text.SimpleDateFormat;
 public class Simulation {
 
     private final Logger logger = LoggerFactory.getLogger("simulation");
@@ -40,10 +40,18 @@ public class Simulation {
         return false;
     }
 
-    public void loopUntilPlayerSucceed() {
+    public void loopUntilPlayerSucceed(Long ite_max) {
         //TODO implement me
         boolean fin_partie;
-        do {fin_partie = nextRound();}while(!fin_partie);
+        long startTime = System.currentTimeMillis();
+        int i = 0;
+        SimpleDateFormat simpleDateFormat = new SimpleDateFormat("mm:ss.SSS");
+
+        do {fin_partie = nextRound();i++;}while(!fin_partie && i <=ite_max);
+        if(i>ite_max)
+            this.logger.log("Le joueur à dépasser le nombre d'itération possible");
+        long elapsedTimeNs = System.currentTimeMillis() - startTime;
+        this.logger.log("Le robot à mit "+simpleDateFormat.format(elapsedTimeNs));
         this.logger.log("Fin de partie");
     }
 
