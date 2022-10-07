@@ -1,7 +1,16 @@
 package fr.lernejo.guessgame;
 
+import java.security.SecureRandom;
 public class Launcher {
-    //public static void main{
-        //Simulation simulation = new Simulation();
-    //}
+    public static void main(String[] args){
+        HumanPlayer humanPlayer = new HumanPlayer();
+        Simulation simulation = new Simulation(humanPlayer);
+        SecureRandom random = new SecureRandom();
+        // long randomNumber = random.nextLong(); // génère un nombre entre Long.MIN_VALUE et Long.MAX_VALUE
+        long randomNumber = random.nextInt(100); // génère un nombre entre 0 (inclus) et 100 (exclus)
+        System.out.println("Le nombre a deviné est "+randomNumber);
+        simulation.initialize(randomNumber);
+        simulation.loopUntilPlayerSucceed();
+
+    }
 }

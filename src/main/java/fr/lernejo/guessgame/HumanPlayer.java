@@ -16,6 +16,9 @@ public class HumanPlayer implements Player{
 
     @Override
     public void respond(boolean lowerOrGreater) {
-        this.log.log(String.valueOf(lowerOrGreater));// true if greater and false if lower
+        if(lowerOrGreater)
+            this.log.log("Le nombre à deviner est plus petit");// true if greater and false if lower
+        else
+            this.log.log("Le nombre à deviner est plus grand");// true if greater and false if lower
     }
 }
