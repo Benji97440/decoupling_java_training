@@ -4,10 +4,11 @@ public class LoggerFactory {
     public static Logger getLogger(String name){
         //Logger logger = LoggerFactory.getLogger(name);
         //Logger logger;
-
         Logger log = new ConsoleLogger();
-        return new ContextualLogger(name,log);
-        //return new FileLogger("logs.txt");
+        Logger log1 = new ContextualLogger(name,log);
+        Logger log2 = new FileLogger("logs.txt");
+        return new CompositeLogger(log1,log2);
+        //return log2;
         //return file;
     }
 }

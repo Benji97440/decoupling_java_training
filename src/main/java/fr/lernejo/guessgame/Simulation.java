@@ -52,6 +52,6 @@ public class Simulation {
             this.logger.log("Le joueur à dépasser le nombre d'itération possible");
         long elapsedTimeNs = System.currentTimeMillis() - startTime;
         this.logger.log("Le robot à mit "+simpleDateFormat.format(elapsedTimeNs));
-        this.logger.log("Fin de partie");
+        this.logger.log("fin");
     }
 }

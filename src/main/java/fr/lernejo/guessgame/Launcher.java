@@ -10,10 +10,9 @@ public class Launcher {
         ComputerPlayer computerPlayer = new ComputerPlayer();
         SecureRandom random = new SecureRandom();
         Logger logger = LoggerFactory.getLogger("- Launcher -");
-
+        logger.log("Lancement du Launcher");
 
         if(args[0].equals("-interactive")){
-            logger.log("Lancement du Launcher");
             long randomNumber = random.nextInt(100); // génère un nombre entre 0 (inclus) et 100 (exclus)
             logger.log("Le nombre a deviné est "+randomNumber);
             Simulation simulation = new Simulation(humanPlayer);
@@ -23,7 +22,6 @@ public class Launcher {
         }else if(args[0].equals("-auto") && args.length == 2){
             try {
                     Long long_value = Long.parseLong(args[1]);
-                    logger.log("Lancement du Launcher");
                     Simulation simulation = new Simulation(computerPlayer);
                     simulation.initialize(long_value);
                     simulation.loopUntilPlayerSucceed(1000);
@@ -35,6 +33,5 @@ public class Launcher {
             logger.log("Erreur d'argument avec les modes");
             logger.log("Entrer :\n -interactive (pour lancer une partie solo)\n ou -auto nb (avec un nombre à la place de nb pour lancer une partie gérer par l'ordinateur)");
         }
-        logger.log("Fin du Launcher");
     }
 }
