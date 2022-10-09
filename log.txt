@@ -1,0 +1,189 @@
+Lancement du Launcher
+Le joueur a choisit le nombre : 4611686018427387903
+Le joueur n'a pas deviné le nombre
+Le nombre à deviner est plus petit
+Le joueur a choisit le nombre : 2305843009213693951
+Le joueur n'a pas deviné le nombre
+Le nombre à deviner est plus petit
+Le joueur a choisit le nombre : 1152921504606846975
+Le joueur n'a pas deviné le nombre
+Le nombre à deviner est plus petit
+Le joueur a choisit le nombre : 576460752303423487
+Le joueur n'a pas deviné le nombre
+Le nombre à deviner est plus petit
+Le joueur a choisit le nombre : 288230376151711743
+Le joueur n'a pas deviné le nombre
+Le nombre à deviner est plus petit
+Le joueur a choisit le nombre : 144115188075855871
+Le joueur n'a pas deviné le nombre
+Le nombre à deviner est plus petit
+Le joueur a choisit le nombre : 72057594037927935
+Le joueur n'a pas deviné le nombre
+Le nombre à deviner est plus petit
+Le joueur a choisit le nombre : 36028797018963967
+Le joueur n'a pas deviné le nombre
+Le nombre à deviner est plus petit
+Le joueur a choisit le nombre : 18014398509481983
+Le joueur n'a pas deviné le nombre
+Le nombre à deviner est plus petit
+Le joueur a choisit le nombre : 9007199254740991
+Le joueur n'a pas deviné le nombre
+Le nombre à deviner est plus petit
+Le joueur a choisit le nombre : 4503599627370495
+Le joueur n'a pas deviné le nombre
+Le nombre à deviner est plus petit
+Le joueur a choisit le nombre : 2251799813685247
+Le joueur n'a pas deviné le nombre
+Le nombre à deviner est plus petit
+Le joueur a choisit le nombre : 1125899906842623
+Le joueur n'a pas deviné le nombre
+Le nombre à deviner est plus petit
+Le joueur a choisit le nombre : 562949953421311
+Le joueur n'a pas deviné le nombre
+Le nombre à deviner est plus petit
+Le joueur a choisit le nombre : 281474976710655
+Le joueur n'a pas deviné le nombre
+Le nombre à deviner est plus petit
+Le joueur a choisit le nombre : 140737488355327
+Le joueur n'a pas deviné le nombre
+Le nombre à deviner est plus petit
+Le joueur a choisit le nombre : 70368744177663
+Le joueur n'a pas deviné le nombre
+Le nombre à deviner est plus petit
+Le joueur a choisit le nombre : 35184372088831
+Le joueur n'a pas deviné le nombre
+Le nombre à deviner est plus petit
+Le joueur a choisit le nombre : 17592186044415
+Le joueur n'a pas deviné le nombre
+Le nombre à deviner est plus petit
+Le joueur a choisit le nombre : 8796093022207
+Le joueur n'a pas deviné le nombre
+Le nombre à deviner est plus petit
+Le joueur a choisit le nombre : 4398046511103
+Le joueur n'a pas deviné le nombre
+Le nombre à deviner est plus petit
+Le joueur a choisit le nombre : 2199023255551
+Le joueur n'a pas deviné le nombre
+Le nombre à deviner est plus petit
+Le joueur a choisit le nombre : 1099511627775
+Le joueur n'a pas deviné le nombre
+Le nombre à deviner est plus petit
+Le joueur a choisit le nombre : 549755813887
+Le joueur n'a pas deviné le nombre
+Le nombre à deviner est plus petit
+Le joueur a choisit le nombre : 274877906943
+Le joueur n'a pas deviné le nombre
+Le nombre à deviner est plus petit
+Le joueur a choisit le nombre : 137438953471
+Le joueur n'a pas deviné le nombre
+Le nombre à deviner est plus petit
+Le joueur a choisit le nombre : 68719476735
+Le joueur n'a pas deviné le nombre
+Le nombre à deviner est plus petit
+Le joueur a choisit le nombre : 34359738367
+Le joueur n'a pas deviné le nombre
+Le nombre à deviner est plus petit
+Le joueur a choisit le nombre : 17179869183
+Le joueur n'a pas deviné le nombre
+Le nombre à deviner est plus petit
+Le joueur a choisit le nombre : 8589934591
+Le joueur n'a pas deviné le nombre
+Le nombre à deviner est plus petit
+Le joueur a choisit le nombre : 4294967295
+Le joueur n'a pas deviné le nombre
+Le nombre à deviner est plus petit
+Le joueur a choisit le nombre : 2147483647
+Le joueur n'a pas deviné le nombre
+Le nombre à deviner est plus petit
+Le joueur a choisit le nombre : 1073741823
+Le joueur n'a pas deviné le nombre
+Le nombre à deviner est plus petit
+Le joueur a choisit le nombre : 536870911
+Le joueur n'a pas deviné le nombre
+Le nombre à deviner est plus petit
+Le joueur a choisit le nombre : 268435455
+Le joueur n'a pas deviné le nombre
+Le nombre à deviner est plus petit
+Le joueur a choisit le nombre : 134217727
+Le joueur n'a pas deviné le nombre
+Le nombre à deviner est plus petit
+Le joueur a choisit le nombre : 67108863
+Le joueur n'a pas deviné le nombre
+Le nombre à deviner est plus petit
+Le joueur a choisit le nombre : 33554431
+Le joueur n'a pas deviné le nombre
+Le nombre à deviner est plus petit
+Le joueur a choisit le nombre : 16777215
+Le joueur n'a pas deviné le nombre
+Le nombre à deviner est plus petit
+Le joueur a choisit le nombre : 8388607
+Le joueur n'a pas deviné le nombre
+Le nombre à deviner est plus petit
+Le joueur a choisit le nombre : 4194303
+Le joueur n'a pas deviné le nombre
+Le nombre à deviner est plus petit
+Le joueur a choisit le nombre : 2097151
+Le joueur n'a pas deviné le nombre
+Le nombre à deviner est plus petit
+Le joueur a choisit le nombre : 1048575
+Le joueur n'a pas deviné le nombre
+Le nombre à deviner est plus petit
+Le joueur a choisit le nombre : 524287
+Le joueur n'a pas deviné le nombre
+Le nombre à deviner est plus petit
+Le joueur a choisit le nombre : 262143
+Le joueur n'a pas deviné le nombre
+Le nombre à deviner est plus petit
+Le joueur a choisit le nombre : 131071
+Le joueur n'a pas deviné le nombre
+Le nombre à deviner est plus petit
+Le joueur a choisit le nombre : 65535
+Le joueur n'a pas deviné le nombre
+Le nombre à deviner est plus petit
+Le joueur a choisit le nombre : 32767
+Le joueur n'a pas deviné le nombre
+Le nombre à deviner est plus petit
+Le joueur a choisit le nombre : 16383
+Le joueur n'a pas deviné le nombre
+Le nombre à deviner est plus petit
+Le joueur a choisit le nombre : 8191
+Le joueur n'a pas deviné le nombre
+Le nombre à deviner est plus petit
+Le joueur a choisit le nombre : 4095
+Le joueur n'a pas deviné le nombre
+Le nombre à deviner est plus petit
+Le joueur a choisit le nombre : 2047
+Le joueur n'a pas deviné le nombre
+Le nombre à deviner est plus petit
+Le joueur a choisit le nombre : 1023
+Le joueur n'a pas deviné le nombre
+Le nombre à deviner est plus petit
+Le joueur a choisit le nombre : 511
+Le joueur n'a pas deviné le nombre
+Le nombre à deviner est plus petit
+Le joueur a choisit le nombre : 255
+Le joueur n'a pas deviné le nombre
+Le nombre à deviner est plus petit
+Le joueur a choisit le nombre : 127
+Le joueur n'a pas deviné le nombre
+Le nombre à deviner est plus petit
+Le joueur a choisit le nombre : 63
+Le joueur n'a pas deviné le nombre
+Le nombre à deviner est plus petit
+Le joueur a choisit le nombre : 31
+Le joueur n'a pas deviné le nombre
+Le nombre à deviner est plus grand
+Le joueur a choisit le nombre : 47
+Le joueur n'a pas deviné le nombre
+Le nombre à deviner est plus petit
+Le joueur a choisit le nombre : 39
+Le joueur n'a pas deviné le nombre
+Le nombre à deviner est plus petit
+Le joueur a choisit le nombre : 35
+Le joueur n'a pas deviné le nombre
+Le nombre à deviner est plus petit
+Le joueur a choisit le nombre : 33
+Le joueur a bien deviné le nombre 33
+Le robot à mit 00:01.107
+Fin de partie
+Fin du Launcher

@@ -7,7 +7,7 @@ import fr.lernejo.logger.LoggerFactory;
 import java.util.Scanner;
 
 public class HumanPlayer implements Player{
-    Logger log = LoggerFactory.getLogger("player");
+    Logger log = LoggerFactory.getLogger("- HumanPlayer -");
     @Override
     public long askNextGuess() {
         Scanner scanner = new Scanner(System.in);

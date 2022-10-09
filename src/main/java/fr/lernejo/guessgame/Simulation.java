@@ -4,8 +4,8 @@ import fr.lernejo.logger.Logger;
 import fr.lernejo.logger.LoggerFactory;
 import java.text.SimpleDateFormat;
 public class Simulation {
-
-    private final Logger logger = LoggerFactory.getLogger("simulation");
+    private final Logger logger = LoggerFactory.getLogger("- Simulation -");
+    //private final Logger logger = LoggerFactory.getLogger("simulation");
     private final Player player;  //TODO add variable type
     private long numberToGuess; //TODO add variable type
 
@@ -40,7 +40,7 @@ public class Simulation {
         return false;
     }
 
-    public void loopUntilPlayerSucceed(Long ite_max) {
+    public void loopUntilPlayerSucceed(long ite_max) {
         //TODO implement me
         boolean fin_partie;
         long startTime = System.currentTimeMillis();
@@ -54,5 +54,4 @@ public class Simulation {
         this.logger.log("Le robot à mit "+simpleDateFormat.format(elapsedTimeNs));
         this.logger.log("Fin de partie");
     }
-
 }
