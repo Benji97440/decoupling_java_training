@@ -10,11 +10,11 @@ public class Launcher {
         ComputerPlayer computerPlayer = new ComputerPlayer();
         SecureRandom random = new SecureRandom();
         Logger logger = LoggerFactory.getLogger("- Launcher -");
-        logger.log("Début");
+        //logger.log("Début");
 
         if(args[0].equals("-interactive")){
             long randomNumber = random.nextInt(100); // génère un nombre entre 0 (inclus) et 100 (exclus)
-            logger.log("Le nombre a deviné est "+randomNumber);
+            //logger.log("Le nombre a deviné est "+randomNumber);
             Simulation simulation = new Simulation(humanPlayer);
             simulation.initialize(randomNumber);
             simulation.loopUntilPlayerSucceed(Long.MAX_VALUE);

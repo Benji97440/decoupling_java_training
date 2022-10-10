@@ -124,3 +124,196 @@
 2022-10-10 11:21:04.383 - Simulation - Le joueur a bien deviné le nombre 33
 2022-10-10 11:21:04.432 - Simulation - Le robot à mit 00:01.655
 2022-10-10 11:21:04.452 - Simulation - fin
+2022-10-10 11:38:17.386 - Simulation - Le joueur a choisit le nombre : 4611686018427387903
+2022-10-10 11:38:17.386 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:38:17.394 - Simulation - Le joueur a choisit le nombre : 2305843009213693951
+2022-10-10 11:38:17.396 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:38:17.404 - Simulation - Le joueur a choisit le nombre : 1152921504606846975
+2022-10-10 11:38:17.406 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:38:17.406 - Simulation - Le joueur a choisit le nombre : 576460752303423487
+2022-10-10 11:38:17.406 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:38:17.414 - Simulation - Le joueur a choisit le nombre : 288230376151711743
+2022-10-10 11:38:17.416 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:38:17.416 - Simulation - Le joueur a choisit le nombre : 144115188075855871
+2022-10-10 11:38:17.424 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:38:17.426 - Simulation - Le joueur a choisit le nombre : 72057594037927935
+2022-10-10 11:38:17.426 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:38:17.437 - Simulation - Le joueur a choisit le nombre : 36028797018963967
+2022-10-10 11:38:17.437 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:38:17.447 - Simulation - Le joueur a choisit le nombre : 18014398509481983
+2022-10-10 11:38:17.447 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:38:17.447 - Simulation - Le joueur a choisit le nombre : 9007199254740991
+2022-10-10 11:38:17.456 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:38:17.457 - Simulation - Le joueur a choisit le nombre : 4503599627370495
+2022-10-10 11:38:17.457 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:38:17.457 - Simulation - Le joueur a choisit le nombre : 2251799813685247
+2022-10-10 11:38:17.466 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:38:17.468 - Simulation - Le joueur a choisit le nombre : 1125899906842623
+2022-10-10 11:38:17.468 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:38:17.468 - Simulation - Le joueur a choisit le nombre : 562949953421311
+2022-10-10 11:38:17.476 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:38:17.478 - Simulation - Le joueur a choisit le nombre : 281474976710655
+2022-10-10 11:38:17.486 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:38:17.488 - Simulation - Le joueur a choisit le nombre : 140737488355327
+2022-10-10 11:38:17.488 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:38:17.488 - Simulation - Le joueur a choisit le nombre : 70368744177663
+2022-10-10 11:38:17.488 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:38:17.498 - Simulation - Le joueur a choisit le nombre : 35184372088831
+2022-10-10 11:38:17.498 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:38:17.498 - Simulation - Le joueur a choisit le nombre : 17592186044415
+2022-10-10 11:38:17.498 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:38:17.617 - Simulation - Le joueur a choisit le nombre : 8796093022207
+2022-10-10 11:38:17.617 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:38:17.625 - Simulation - Le joueur a choisit le nombre : 4398046511103
+2022-10-10 11:38:17.625 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:38:17.641 - Simulation - Le joueur a choisit le nombre : 2199023255551
+2022-10-10 11:38:17.641 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:38:17.641 - Simulation - Le joueur a choisit le nombre : 1099511627775
+2022-10-10 11:38:17.641 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:38:17.641 - Simulation - Le joueur a choisit le nombre : 549755813887
+2022-10-10 11:38:17.649 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:38:17.649 - Simulation - Le joueur a choisit le nombre : 274877906943
+2022-10-10 11:38:17.649 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:38:17.649 - Simulation - Le joueur a choisit le nombre : 137438953471
+2022-10-10 11:38:17.657 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:38:17.657 - Simulation - Le joueur a choisit le nombre : 68719476735
+2022-10-10 11:38:17.657 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:38:17.657 - Simulation - Le joueur a choisit le nombre : 34359738367
+2022-10-10 11:38:17.657 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:38:17.665 - Simulation - Le joueur a choisit le nombre : 17179869183
+2022-10-10 11:38:17.665 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:38:17.665 - Simulation - Le joueur a choisit le nombre : 8589934591
+2022-10-10 11:38:17.673 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:38:17.673 - Simulation - Le joueur a choisit le nombre : 4294967295
+2022-10-10 11:38:17.700 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:38:17.737 - Simulation - Le joueur a choisit le nombre : 2147483647
+2022-10-10 11:38:17.737 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:38:17.748 - Simulation - Le joueur a choisit le nombre : 1073741823
+2022-10-10 11:38:17.748 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:38:17.755 - Simulation - Le joueur a choisit le nombre : 536870911
+2022-10-10 11:38:17.757 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:38:17.766 - Simulation - Le joueur a choisit le nombre : 268435455
+2022-10-10 11:38:17.768 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:38:17.778 - Simulation - Le joueur a choisit le nombre : 134217727
+2022-10-10 11:38:17.778 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:38:17.788 - Simulation - Le joueur a choisit le nombre : 67108863
+2022-10-10 11:38:17.788 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:38:17.799 - Simulation - Le joueur a choisit le nombre : 33554431
+2022-10-10 11:38:17.799 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:38:17.799 - Simulation - Le joueur a choisit le nombre : 16777215
+2022-10-10 11:38:17.799 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:38:17.810 - Simulation - Le joueur a choisit le nombre : 8388607
+2022-10-10 11:38:17.810 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:38:17.810 - Simulation - Le joueur a choisit le nombre : 4194303
+2022-10-10 11:38:17.820 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:38:17.820 - Simulation - Le joueur a choisit le nombre : 2097151
+2022-10-10 11:38:17.820 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:38:17.820 - Simulation - Le joueur a choisit le nombre : 1048575
+2022-10-10 11:38:17.820 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:38:17.860 - Simulation - Le joueur a choisit le nombre : 524287
+2022-10-10 11:38:17.864 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:38:17.866 - Simulation - Le joueur a choisit le nombre : 262143
+2022-10-10 11:38:17.866 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:38:17.866 - Simulation - Le joueur a choisit le nombre : 131071
+2022-10-10 11:38:18.125 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:38:18.422 - Simulation - Le joueur a choisit le nombre : 65535
+2022-10-10 11:38:18.955 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:38:18.979 - Simulation - Le joueur a choisit le nombre : 32767
+2022-10-10 11:38:19.017 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:38:19.141 - Simulation - Le joueur a choisit le nombre : 16383
+2022-10-10 11:38:19.181 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:38:19.194 - Simulation - Le joueur a choisit le nombre : 8191
+2022-10-10 11:38:19.194 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:38:19.204 - Simulation - Le joueur a choisit le nombre : 4095
+2022-10-10 11:38:19.214 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:38:19.234 - Simulation - Le joueur a choisit le nombre : 2047
+2022-10-10 11:38:19.234 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:38:19.242 - Simulation - Le joueur a choisit le nombre : 1023
+2022-10-10 11:38:19.244 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:38:19.244 - Simulation - Le joueur a choisit le nombre : 511
+2022-10-10 11:38:19.280 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:38:19.301 - Simulation - Le joueur a choisit le nombre : 255
+2022-10-10 11:38:19.329 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:38:19.378 - Simulation - Le joueur a choisit le nombre : 127
+2022-10-10 11:38:19.434 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:38:19.481 - Simulation - Le joueur a choisit le nombre : 63
+2022-10-10 11:38:19.493 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:38:19.493 - Simulation - Le joueur a choisit le nombre : 31
+2022-10-10 11:38:19.493 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:38:19.493 - Simulation - Le joueur a choisit le nombre : 47
+2022-10-10 11:38:19.503 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:38:19.513 - Simulation - Le joueur a choisit le nombre : 39
+2022-10-10 11:38:19.524 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:38:19.534 - Simulation - Le joueur a choisit le nombre : 35
+2022-10-10 11:38:19.542 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:38:19.588 - Simulation - Le joueur a choisit le nombre : 33
+2022-10-10 11:38:19.628 - Simulation - Le joueur a bien deviné le nombre 33
+2022-10-10 11:38:19.701 - Simulation - Le robot à mit 00:02.419
+2022-10-10 11:38:19.776 - Simulation - fin
+2022-10-10 11:45:27.213 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:45:27.227 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:45:27.237 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:45:27.237 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:45:27.247 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:45:27.258 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:45:27.266 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:45:27.278 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:45:27.297 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:45:27.298 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:45:27.319 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:45:27.329 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:45:27.350 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:45:27.360 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:45:27.376 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:45:27.386 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:45:27.408 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:45:27.460 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:45:27.471 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:45:27.471 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:45:27.479 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:45:27.489 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:45:27.497 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:45:27.499 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:45:27.508 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:45:27.510 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:45:27.510 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:45:27.518 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:45:27.520 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:45:27.520 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:45:27.520 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:45:27.552 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:45:28.141 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:45:28.144 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:45:28.144 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:45:28.220 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:45:28.265 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:45:28.265 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:45:28.275 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:45:28.285 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:45:28.285 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:45:28.306 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:45:28.315 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:45:28.322 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:45:28.324 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:45:28.325 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:45:28.350 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:45:28.350 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:45:28.400 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:45:28.405 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:45:28.410 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:45:28.495 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:45:28.496 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:45:28.526 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:45:28.530 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:45:28.600 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:45:28.690 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:45:28.725 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:45:28.731 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:45:28.741 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:45:28.756 - Simulation - Le joueur n'a pas deviné le nombre
+2022-10-10 11:45:28.779 - Simulation - Le joueur a bien deviné le nombre 33
+2022-10-10 11:45:28.803 - Simulation - Le robot à mit 00:01.701
+2022-10-10 11:45:28.831 - Simulation - fin
+2022-10-10 11:53:20.057 - Simulation - Le joueur a bien deviné le nombre 33
+2022-10-10 11:53:20.078 - Simulation - Le robot à mit 00:00.313
+2022-10-10 11:53:20.108 - Simulation - fin

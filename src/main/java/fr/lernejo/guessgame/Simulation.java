@@ -25,12 +25,12 @@ public class Simulation {
     private boolean nextRound() {
         //TODO implement me
         long nb = player.askNextGuess();
-        this.logger.log("Le joueur a choisit le nombre : "+nb);
+        //this.logger.log("Le joueur a choisit le nombre : "+nb);
         if (nb == this.numberToGuess){
             this.logger.log("Le joueur a bien deviné le nombre "+nb);
             return true;
         }
-        this.logger.log("Le joueur n'a pas deviné le nombre");
+        //this.logger.log("Le joueur n'a pas deviné le nombre");
         if(nb > this.numberToGuess){
             this.player.respond(true);
         }
